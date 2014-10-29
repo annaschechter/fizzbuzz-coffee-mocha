@@ -1,0 +1,1 @@
+This exercise is an introduction to CoffeeScript and Mocha. In this exercise we are building the FizzBuzz game built using CoffeeScript and tested with Mocha & Chai.
